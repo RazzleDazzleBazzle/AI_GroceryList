@@ -1,8 +1,7 @@
 # AI_GroceryList  
 AI driven Grocery List app for iOS and iPadOS  
 
-our privacy policy document is ready! Here's what's covered across the 10 sections:  
-Sections included:  
+Privacy policy 
 
 Information We Collect — Analytics / Crash reports submitted by end user to Apple.  
 iCloud Sync — explains Apple's role, encryption, and how to disable it  
