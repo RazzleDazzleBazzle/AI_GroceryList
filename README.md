@@ -1,3 +1,6 @@
+Support Details.
+
+Contact: darrenwilson23@icloud.com
 
 Privacy policy 
 
